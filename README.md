@@ -13,7 +13,7 @@ Mianotes stores knowledge as plain Markdown files on the filesystem, so your not
 
 Mia is the built-in AI agent for Mianotes. It helps turn messy inputs into clean notes by extracting key information, summarising content, adding structure, and preparing knowledge for reuse by humans, agents, and tools like Claude, Codex, OpenClaw, Cursor, VS Code, and Slack.
 
-![Mianotes overview](docs/assets/mia.png)
+![Mianotes overview](mia.png)
 
 
 ## Use cases
