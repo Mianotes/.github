@@ -1,6 +1,3 @@
-![Mianotes logo](logo.png)
-
-
 ## Welcome to Mianotes 
 
 Mianotes is a local-first knowledge app for humans and AI agents. It turns files, links, images, audio, and text into organised Markdown notes that people can read, edit, and share, while AI agents can search, update, and maintain them through APIs and MCP.
