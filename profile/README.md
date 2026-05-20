@@ -6,7 +6,7 @@ Mianotes is a local-first knowledge app for humans and AI agents. It turns files
 
 Humans use the web app to organise notes, folders, links, documents, and summaries. Agents use the API to retrieve context, save decisions, update notes, and keep knowledge useful over time.
 
-Mianotes stores knowledge as plain Markdown files on the filesystem, so your notes stay portable, readable, and easy to run locally on your computer or on your own server.
+Your knowledge stays private, portable, readable, and easy to run locally on your computer or on your own server.
 
 ## Meet Mia
 
