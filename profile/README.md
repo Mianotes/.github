@@ -1,9 +1,11 @@
+![Mianotes logo](logo.png)
 
-Mianotes is a local-first knowledge app for humans and AI agents.
 
-It turns files, links, images, audio, and text into organised Markdown notes that people can read, edit, and share, while AI agents can search, update, and maintain them through APIs and MCP.
+## Welcome to Mianotes 
 
-The idea is simple: Markdown files become your shared working memory.
+Mianotes is a local-first knowledge app for humans and AI agents. It turns files, links, images, audio, and text into organised Markdown notes that people can read, edit, and share, while AI agents can search, update, and maintain them through APIs and MCP.
+
+💡 The idea is simple: `Markdown` files become your shared working memory.
 
 Humans use the web app to organise notes, folders, links, documents, and summaries. Agents use the API to retrieve context, save decisions, update notes, and keep knowledge useful over time.
 
