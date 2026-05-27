@@ -16,7 +16,7 @@ Mia is the built-in AI agent for Mianotes.
 
 Mia helps your agents document the project as they work. It turns inputs into clean Markdown notes, extracts useful information, adds structure, and prepares your knowledge so humans and AI agents can reuse it.
 
-![Mianotes overview](mia.png)
+![Mianotes overview](mia.jpg)
 
 
 ## Use cases
