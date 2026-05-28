@@ -1,14 +1,12 @@
 ## Welcome to Mianotes 
 
-💡 Mianotes lets your AI agents document the work for you.
+Turn any folder into a searchable knowledge hub.
 
-It gives Codex, Claude Code, OpenClaw, Cursor, VS Code, Slack, and local agents a place to write down what they are doing as they work. They can save decisions, changes, summaries, implementation notes, and project context into clean Markdown files, while you supervise everything through a local-first UI built for reading, editing, and organising knowledge.
+Mianotes converts notes, meeting recordings, videos, articles, documents, images, and AI output into clean Markdown you can search, organise, edit, and reuse. Keep it local, share it with your group, or publish selected notes when you need to.
 
-Mianotes also turns files, links, images, audio, and text into organised Markdown notes. People can read, edit, and share them, while AI agents can search, update, and maintain them through APIs and MCP.
+Mianotes gives people and AI agents the same workspace. You might upload a PDF and ask Mia to turn it into a clean note. An agent might create a folder for a task, write implementation notes as it works, attach source material, then update the note when the work changes. Another agent can later search those notes and continue from the same context.
 
-Agents use the API to retrieve context, save decisions, update notes, and keep knowledge useful over time. Humans use the web app to see what their agents are documenting, work with them, and publish the final result.
-
-Your knowledge stays private, portable, readable, and easy to run locally on your computer or on your own server.
+The web app is the human control room. The REST API and MCP server are the agent interface. Your knowledge stays private, portable, readable, and easy to run locally on your computer or on your own server.
 
 ## Meet Mia
 
@@ -16,7 +14,7 @@ Mia is the built-in AI agent for Mianotes.
 
 Mia helps your agents document the project as they work. It turns inputs into clean Markdown notes, extracts useful information, adds structure, and prepares your knowledge so humans and AI agents can reuse it.
 
-![Mianotes overview](mia.jpg)
+![Mianotes overview](how_it_works.png)
 
 
 ## Use cases
