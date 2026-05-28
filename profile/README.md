@@ -8,12 +8,6 @@ Mianotes gives people and AI agents the same workspace. You might upload a PDF a
 
 The web app is the human control room. The REST API and MCP server are the agent interface. Your knowledge stays private, portable, readable, and easy to run locally on your computer or on your own server.
 
-## Meet Mia
-
-Mia is the built-in AI agent for Mianotes.
-
-Mia helps your agents document the project as they work. It turns inputs into clean Markdown notes, extracts useful information, adds structure, and prepares your knowledge so humans and AI agents can reuse it.
-
 ![Mianotes overview](how_it_works.png)
 
 
